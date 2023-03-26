@@ -1,0 +1,10 @@
+.box{
+    background-color: aqua;
+    height: 200px;
+    width: 500px;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    text-align: center;
+    line-height: 200px;
+}
